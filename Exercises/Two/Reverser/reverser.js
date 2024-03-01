@@ -3,7 +3,7 @@
  *
  * @param {string} str - String to reverse.
  * @returns {string} - The string reversed.
- * @throws {string} - An error message ig a string is not given or param is not a string type.
+ * @throws {string} - An error message if a string is not given or param is not of a string type.
  */
 
 function reverse (str) {
